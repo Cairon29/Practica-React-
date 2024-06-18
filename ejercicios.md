@@ -1,10 +1,3 @@
-# Ejercicios con useState en REACT
+# React PRACTICE
 
-1. Boton que cambia de color 
-    **estado:** a medias
-2. Boton que imprime logs curiosos
-    
-3. Boton contador que suma y otro que resta
-4. Boton Contador que cambia el color de un cuadro dependiendo de su numero
-5. Boton que traiga una API tarjeta de Rick y Morty
-6. Boton que traiga una API tarjeta de Pokemon
+He estado practicando cosas en **REACT** Durante ya algun tiempo, y una vez vi que mis archivos locales iban avanzando crei que seria buena idea crear un repositorio especial para mis primeras practicas. ***Yo del futuro, lo ¿logramos?***
