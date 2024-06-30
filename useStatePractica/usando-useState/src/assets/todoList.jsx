@@ -16,7 +16,7 @@ export const ToDo = () => {
     }
     const addToList = () => {
         if (inputProducto != false && inputCantidad == undefined) {
-            setLista([...lista,{product: inputProducto, amount: 1}])
+            setLista([...lista,{product: inputProducto,  amount: 1}])
             setinputProducto('')
             setinputCantidad(undefined)
         } else if (inputProducto != false && inputCantidad != false){
